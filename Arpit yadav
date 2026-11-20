@@ -1,0 +1,83 @@
+Title and Student Details
+Title: Modernization of Student Management System Using Software Maintenance, Reengineering, and AI.
+Name: Arpit Yadav A
+USN: N26UGLAT10283
+Assigned Case Study: Question 5
+GitHub Filename: USN_Software_Modernization_AI.md
+Introduction
+Software maintenance is the process of modifying and updating software after its delivery to correct errors, improve performance, and adapt to changing requirements.
+Software reengineering is the process of analyzing and modifying an existing software system to improve its structure, quality, and performance without completely developing a new system.
+AI-assisted software engineering uses Artificial Intelligence tools to automate coding, testing, debugging, and software quality improvement.
+In this case study, a college wants to modernize its existing Student Management System using software maintenance, reengineering, and AI tools.
+Problem Analysis
+The existing Student Management System faces several problems:
+Slow Performance: The system takes more time to load student records and generate reports.
+Outdated Features: Some features do not meet current college requirements.
+Frequent Errors: The system produces errors during data entry and processing.
+Poor User Experience: The interface is difficult for students and staff to use.
+Maintenance Difficulties: Old code makes it difficult to modify and update the system.
+3. Perfective Maintenance: Improves performance and adds new features.
+Example: Adding online fee payment and attendance tracking.
+4. Preventive Maintenance: Reduces future problems by improving code quality.
+Example: Removing unnecessary code and improving system security.
+B. Software Reengineering
+Software reengineering improves an existing software system by analyzing and restructuring it.
+Steps involved in software reengineering:
+Inventory Analysis: Identify existing software components and their problems.
+Document Restructuring: Update outdated system documentation.
+Reverse Engineering: Study the existing system to understand its design and functionality.
+Code Restructuring: Improve the existing code without changing its main functionality.
+Data Restructuring: Organize and improve the database structure.
+Forward Engineering: Develop and implement the modernized system.
+Expected Improvements
+The modernization process provides the following three major improvements:
+Improved Performance: The system becomes faster and processes student information efficiently.
+Better Reliability: Bug fixing and automated testing reduce errors and improve software quality.
+Enhanced Functionality: New features such as online fee payment, attendance tracking, and automated report generation improve user experience.
+Simple Modernization Workflow Diagram:
+       STUDENT MANAGEMENT SYSTEM
+           |
+           v
+    PROBLEM IDENTIFICATION
+           |
+           v
+    SOFTWARE MAINTENANCE
+ (Corrective, Adaptive, Perfective,
+        Preventive)
+           |
+           v
+    SOFTWARE REENGINEERING
+ (Reverse Engineering, Code
+  Restructuring, Data Restructuring)
+           |
+           v
+ AI-ASSISTED SOFTWARE ENGINEERING
+ (AI Bug Detection and Automated Testing)
+           |
+           v
+      SYSTEM TESTING
+           |
+           v
+   MODERNIZED STUDENT
+    MANAGEMENT SYSTEM
+           |
+           v
+   IMPROVED PERFORMANCE,
+   RELIABILITY AND SECURITY
+Benefits and Challenges
+Benefits:
+Reduces system errors and improves reliability.
+Improves system speed and performance.
+Saves development and maintenance time.
+Provides better security and user experience.
+Makes future updates easier.
+Challenges:
+Modernization may require additional cost.
+Old data may be difficult to migrate.
+Developers need training to use AI tools.
+AI-generated code may contain errors and requires human review.
+System updates may temporarily affect college activities.
+Conclusion
+Software maintenance, software reengineering, and AI-assisted software engineering play an important role in modernizing the existing Student Management System.
+Software maintenance helps fix errors and improve features. Software reengineering improves the structure and performance of the old system. AI tools help developers detect bugs and automate software testing.
+By combining these techniques, the college can develop a faster, more reliable, secure, and user-friendly Student Management System.
